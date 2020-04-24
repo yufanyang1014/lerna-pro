@@ -1,0 +1,11 @@
+node_modules/
+lib/
+npm-debug.log
+.idea/
+*.iml
+dist/
+.history/
+src/packages
+.vscode
+
+yarn-error.log
